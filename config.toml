@@ -1,4 +1,4 @@
-baseurl = "https://anthonypinter.github.io/c4lhugo"
+baseurl = "https://anthonypinter.com/c4lhugo"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
